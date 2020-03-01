@@ -37,7 +37,7 @@ export default {
 }
 
 .bg-secondary {
-  background-color: #BD9010;
+  background-color: #303030;
 }
 
 a {
