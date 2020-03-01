@@ -6,142 +6,142 @@
     <div class="container mx-auto flex items-center justify-center w-full flex-wrap py-8">
       <div class="logo-container flex items-center justify-center w-full md:w-1/3 p-8">
         <a
-          href="https://nubank.com.br/"
+          href="https://vtex.com/br-pt/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          <img src="/sponsors/vtex.png" alt="NuBank logo">
+          <img src="/sponsors/vtex.png" alt="Vtex logo">
         </a>
       </div>
       <div class="logo-container flex items-center justify-center w-full md:w-1/3 p-8">
-        <a href="https://cobli.co/" target="_blank" rel="noopener noreferrer">
-          <img src="/sponsors/accenture.png" alt="Cobli logo">
-        </a>
-      </div>
-      <div class="logo-container flex items-center justify-center w-full md:w-1/3 p-8">
-        <a
-          href="https://wildlifestudios.com/"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <img src="/sponsors/cpqd.png" alt="Wildlife logo">
+        <a href="https://www.accenture.com/br-pt" target="_blank" rel="noopener noreferrer">
+          <img src="/sponsors/accenture.png" alt="Accenture logo">
         </a>
       </div>
       <div class="logo-container flex items-center justify-center w-full md:w-1/3 p-8">
         <a
-          href="https://wildlifestudios.com/"
+          href="https://www.cpqd.com.br/en/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          <img src="/sponsors/eldorado.png" alt="Wildlife logo">
+          <img src="/sponsors/cpqd.png" alt="CPQD logo">
         </a>
       </div>
       <div class="logo-container flex items-center justify-center w-full md:w-1/3 p-8">
         <a
-          href="https://wildlifestudios.com/"
+          href="https://www.eldorado.org.br/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          <img src="/sponsors/idwall.png" alt="Wildlife logo">
+          <img src="/sponsors/eldorado.png" alt="Eldorado logo">
         </a>
       </div>
       <div class="logo-container flex items-center justify-center w-full md:w-1/3 p-8">
         <a
-          href="https://wildlifestudios.com/"
+          href="https://idwall.co/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          <img src="/sponsors/raccoon.png" alt="Wildlife logo">
+          <img src="/sponsors/idwall.png" alt="idwall logo">
         </a>
       </div>
       <div class="logo-container flex items-center justify-center w-full md:w-1/3 p-8">
         <a
-          href="https://wildlifestudios.com/"
+          href="https://raccoon.ag/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          <img src="/sponsors/serasa.png" alt="Wildlife logo">
+          <img src="/sponsors/raccoon.png" alt="Raccoon logo">
         </a>
       </div>
       <div class="logo-container flex items-center justify-center w-full md:w-1/3 p-8">
         <a
-          href="https://wildlifestudios.com/"
+          href="https://www.serasaexperian.com.br/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          <img src="/sponsors/tokenlab.png" alt="Wildlife logo">
+          <img src="/sponsors/serasa.png" alt="Serasa logo">
         </a>
       </div>
       <div class="logo-container flex items-center justify-center w-full md:w-1/3 p-8">
         <a
-          href="https://wildlifestudios.com/"
+          href="https://www.tokenlab.com.br/pt/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          <img src="/sponsors/kits.png" alt="Wildlife logo">
+          <img src="/sponsors/tokenlab.png" alt="Tokenlab logo">
         </a>
       </div>
       <div class="logo-container flex items-center justify-center w-full md:w-1/3 p-8">
         <a
-          href="https://wildlifestudios.com/"
+          href="http://www.keepsimple.com.br/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          <img src="/sponsors/daitan.png" alt="Wildlife logo">
+          <img src="/sponsors/kits.png" alt="Keep Simple logo">
         </a>
       </div>
       <div class="logo-container flex items-center justify-center w-full md:w-1/3 p-8">
         <a
-          href="https://wildlifestudios.com/"
+          href="https://www.daitan.com/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          <img src="/sponsors/amdocs.png" alt="Wildlife logo">
+          <img src="/sponsors/daitan.png" alt="Daitan logo">
         </a>
       </div>
       <div class="logo-container flex items-center justify-center w-full md:w-1/3 p-8">
         <a
-          href="https://wildlifestudios.com/"
+          href="https://www.amdocs.com/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          <img src="/sponsors/enfase.png" alt="Wildlife logo">
+          <img src="/sponsors/amdocs.png" alt="Amdocs logo">
         </a>
       </div>
       <div class="logo-container flex items-center justify-center w-full md:w-1/3 p-8">
         <a
-          href="https://wildlifestudios.com/"
+          href="https://cursoenfase.com.br/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          <img src="/sponsors/icaro.png" alt="Wildlife logo">
+          <img src="/sponsors/enfase.png" alt="Enfase logo">
         </a>
       </div>
       <div class="logo-container flex items-center justify-center w-full md:w-1/3 p-8">
         <a
-          href="https://wildlifestudios.com/"
+          href="https://www.icarotech.com/en/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          <img src="/sponsors/monitora.png" alt="Wildlife logo">
+          <img src="/sponsors/icaro.png" alt="Icaro logo">
         </a>
       </div>
       <div class="logo-container flex items-center justify-center w-full md:w-1/3 p-8">
         <a
-          href="https://wildlifestudios.com/"
+          href="https://www.monitoratec.com.br/en"
           target="_blank"
           rel="noopener noreferrer"
         >
-          <img src="/sponsors/dominos.png" alt="Wildlife logo">
+          <img src="/sponsors/monitora.png" alt="Monitora logo">
         </a>
       </div>
       <div class="logo-container flex items-center justify-center w-full md:w-1/3 p-8">
         <a
-          href="https://wildlifestudios.com/"
+          href="https://www.dominos.com.br/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          <img src="/sponsors/subway.png" alt="Wildlife logo">
+          <img src="/sponsors/dominos.png" alt="Dominos logo">
+        </a>
+      </div>
+      <div class="logo-container flex items-center justify-center w-full md:w-1/3 p-8">
+        <a
+          href="https://www.subway.com/pt-BR"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <img src="/sponsors/subway.png" alt="Subway logo">
         </a>
       </div>
     </div>
