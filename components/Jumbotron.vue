@@ -15,20 +15,16 @@
             Semcomp 22
           </h1>
           <span class="py-4">
-            Dias 28 de Setembro à 04 de Outubro
+            Dias 28 de Setembro à 04 de Outubro de 2019
           </span>
           <h2 class="subtitle2 py-4">
             A melhor semana acadêmica de computação do Brasil
           </h2>
           <div class="py-4">
             <button
-              class="text-white py-2 px-4 border border-white rounded"
+              class="text-gray-500 py-2 px-4 border border-gray-500 rounded cursor-default"
             >
-              <a
-                href="https://uclab.xyz/deephack-subscribe"
-                target="_blank"
-                rel="noopener noreferrer"
-              >Increva-se</a>
+              Inscreva-se
             </button>
           </div>
         </div>
