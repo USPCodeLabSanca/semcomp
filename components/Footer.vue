@@ -16,6 +16,14 @@
           </p>
         </div>
       </div>
+      <div class="px-4 flex">
+        <a href="https://pt-br.facebook.com/Semcomp/" target="_blank" rel="noopener noreferrer">
+          <img class="icon icon-social p-2 mx-2 shadow-md" src="/facebookk.svg" alt="Facebook">
+        </a>
+        <a href="https://www.instagram.com/semcomp/" target="_blank" rel="noopener noreferrer">
+          <img class="icon icon-social p-2 mx-2 shadow-md" src="/instagramm.svg" alt="Instagram">
+        </a>
+      </div>
     </div>
   </div>
 </template>
@@ -26,5 +34,9 @@
   background-color: white;
   border-radius: 100%;
   height: 100px;
+}
+
+.icon-social {
+  height: 50px;
 }
 </style>
