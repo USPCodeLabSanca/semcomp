@@ -4,6 +4,7 @@
     <About />
     <Numbers />
     <Sponsors />
+    <Footer />
   </div>
 </template>
 
@@ -12,13 +13,15 @@ import Jumbotron from '~/components/Jumbotron.vue'
 import About from '~/components/About.vue'
 import Numbers from '~/components/Numbers.vue'
 import Sponsors from '~/components/Sponsors.vue'
+import Footer from '~/components/Footer.vue'
 
 export default {
   components: {
     Jumbotron,
     About,
     Numbers,
-    Sponsors
+    Sponsors,
+    Footer
   }
 }
 </script>
