@@ -18,10 +18,10 @@
       </div>
       <div class="px-4 flex">
         <a href="https://pt-br.facebook.com/Semcomp/" target="_blank" rel="noopener noreferrer">
-          <img class="icon icon-social p-2 mx-2 shadow-md" src="/facebookk.svg" alt="Facebook">
+          <img class="icon icon-social p-2 mx-2 shadow-md" src="/f.svg" alt="Facebook">
         </a>
         <a href="https://www.instagram.com/semcomp/" target="_blank" rel="noopener noreferrer">
-          <img class="icon icon-social p-2 mx-2 shadow-md" src="/instagramm.svg" alt="Instagram">
+          <img class="icon icon-social p-2 mx-2 shadow-md" src="/i.svg" alt="Instagram">
         </a>
       </div>
     </div>
