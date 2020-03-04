@@ -8,9 +8,9 @@
           <img class="icon p-2 mx-2 shadow-md" src="/logo.svg" alt="Semcomp Logo">
         </div>
         <div>
-          <p class="mt-4 text-3xl">
-            Semcomp
-          </p>
+          <div class="mt-4 w-full flex md:block justify-center">
+            <img src="/logo-text.svg" alt="Kiwi standing on oval">
+          </div>
           <p class="mb-4 text-xl">
             A melhor semana acadêmica de computação do Brasil
           </p>
@@ -18,10 +18,14 @@
       </div>
       <div class="px-4 flex">
         <a href="https://pt-br.facebook.com/Semcomp/" target="_blank" rel="noopener noreferrer">
-          <img class="icon icon-social p-2 mx-2 shadow-md" src="/f.svg" alt="Facebook">
+          <div class="icon-s p-2 mx-2 shadow-md">
+            <img src="/icon-1.svg" alt="Facebook">
+          </div>
         </a>
         <a href="https://www.instagram.com/semcomp/" target="_blank" rel="noopener noreferrer">
-          <img class="icon icon-social p-2 mx-2 shadow-md" src="/i.svg" alt="Instagram">
+          <div class="icon-s p-2 mx-2 shadow-md">
+            <img src="/icon-2.svg" alt="Instagram">
+          </div>
         </a>
       </div>
     </div>
@@ -36,7 +40,9 @@
   height: 100px;
 }
 
-.icon-social {
-  height: 50px;
+.icon-s {
+  width: 50px;
+  background-color: white;
+  border-radius: 100%;
 }
 </style>

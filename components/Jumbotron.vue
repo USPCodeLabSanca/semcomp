@@ -10,13 +10,9 @@
           class="logo mx-4"
         />
 
-        <div class="text-center justify-center md:text-left md:justify-left px-4 w-full">
-          <div>
-            <object
-              data="/logo-text.svg"
-              alt="DeepHack Logo"
-              class="icon-text relative"
-            />
+        <div class="text-center md:text-left px-4 w-full">
+          <div class="w-full flex md:block justify-center">
+            <img src="/logo-text.svg" alt="Semcomp 22">
           </div>
           <span class="py-4">
             Dias 28 de Setembro à 04 de Outubro de 2019
